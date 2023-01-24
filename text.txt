@@ -2,4 +2,4 @@ Hello git!
 java est ios android
 noall yes tatil sae .
 ios est
-
+dev ios create

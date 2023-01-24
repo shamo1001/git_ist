@@ -3,3 +3,7 @@ java est ios android
 noall yes tatil sae .
 ios est
 dev ios create
+dev test os ai
+master ion is ai
+windwos ias
+ipc dev

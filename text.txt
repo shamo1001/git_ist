@@ -3,3 +3,5 @@ java est ios android
 noall yes tatil sae .
 ios est
 dev ios create
+maseter ios ape;
+ios mas aamm`
